@@ -1,0 +1,16 @@
+Time Series Analysis:
+
+step 1:Analysing a data
+step 2:use of date column as an index
+step 3 :setting the desired frequencey
+          
+          use asfreq() method
+step 4: Handling missing data
+        fillna have 3 methods
+           * forward filling - uses last known value
+           * backward filling - uses next known value
+           * same filling
+           * mean
+           * median ,etc
+           
+step 5:
