@@ -13,4 +13,19 @@ step 4: Handling missing data
            * mean
            * median ,etc
            
+           
+           
 step 5:
+module 1:
+whitenoise time series - no pattern between past and the future (time periods)
+       in other words we can also say constant mean, constant variance,no correlation between any periods
+       
+       market efficiency: measures the level of fifficulty in forecasting correct future values
+       
+module 2:Random walk
+
+          characteristics: * the difference between the periods are white noise
+                           * the best estimator of todays value is yesterdays value
+                           * the best estimator of tommorows value is today value
+
+
