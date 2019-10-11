@@ -44,10 +44,14 @@ module 4: Seasonality
                     *seasonality  - cyclical effects
                     *residual     - Error of Prediction
           
+          Naive decompostion-  The simplest type of decomposition is called naive with naive decomposition.
+                               We expect a linear relationship between the three parts and the observed time series.
+                               Now let's pay attention to the two main approaches to naive decomposition additive or multiplicative
           
           
+          additive -           for any time period the observed value is the sum of the trend seasonal and residual for that period.
           
-          
+          multiplicative -     the original series is a product of the trend seasonal and residual values to make things more convenient.
           
           
           
