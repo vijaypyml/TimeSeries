@@ -50,9 +50,9 @@ module 4: Seasonality
           
           
           additive -           for any time period the observed value is the sum of the trend seasonal and residual for that period.
-          
+                                trend+season+residual
           multiplicative -     the original series is a product of the trend seasonal and residual values to make things more convenient.
-          
+                                 trend*season*residual
           
           
           
