@@ -27,5 +27,13 @@ module 2:Random walk
           characteristics: * the difference between the periods are white noise
                            * the best estimator of todays value is yesterdays value
                            * the best estimator of tommorows value is today value
+module 3: stationarity
 
+         covarince stationarity:
+         
+                              * constant mean
+                              * constant variance
+                              *cov(xn,xn+1)=cov(xm,xm+1)`   
+                              
+                              test static< critical value = stationary
 
