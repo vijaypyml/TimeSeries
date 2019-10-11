@@ -37,3 +37,36 @@ module 3: stationarity
                               
                               test static< critical value = stationary
 
+module 4: Seasonality
+          
+          3 types of decompostion:
+                    *trend        - pattern
+                    *seasonality  - cyclical effects
+                    *residual     - Error of Prediction
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
