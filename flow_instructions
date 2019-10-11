@@ -56,6 +56,18 @@ module 4: Seasonality
           
           
           
+          rules:
+          
+          no significant-> estimator= 0-> no predictive power ->fall back to simpler model
+          
+          parsimonious:
+          
+                              General ---> simpler model > complex model
+                              significantly better prediction -------> complex model > simple model
+                              residual should resemble white noise if there is no trend in data
+                              
+                              **higher log likelihood and lower information value to pic the models
+          
           
           
           
