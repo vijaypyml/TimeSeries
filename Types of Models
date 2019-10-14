@@ -1,0 +1,9 @@
+AR model(Auto Regressive model):
+           
+            a linear model where a current period values are a sum of past outcomes multiplied by a numeric factor.
+            
+            For instance if we take X as a time series variable then an example of an A.R. model would look something like this.
+            X in period t equals sum constant C plus a numeric coefficient fi times X in period T minus one plus
+            epsilon T.
+              
+          
