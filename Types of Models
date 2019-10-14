@@ -22,3 +22,14 @@ MA Model:(Moving Average model)
 1 MA model = AR Model(infinity)
 
 *In MA model the independent variable is residual but in the AR model it is the value of the variable.
+
+* MA model will perform good at Random walk data.
+
+
+ARMA model:
+
+conditions need to check:
+
+* all coefficients need to be significant
+* High log likelihood
+* Low information criteria
