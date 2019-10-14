@@ -13,3 +13,4 @@ steps:
 *use adfuller test and plots to see the trends in data 
 *if descriptive statistics like mean and variance is consistent for all time periods then the data is stationary.
 *time series model will perform more efiiciently with stationary data.
+* Normalizing soes not Affect Stationarity
